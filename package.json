@@ -1,0 +1,22 @@
+{
+  "name": "multi-threaded-account-creator",
+  "version": "1.0.0",
+  "description": "threaded account creator used to explode penglyfe registration",
+  "main": "src\\index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multi-threaded",
+    "account-creator",
+    "cpps",
+    "solero"
+  ],
+  "author": "benji",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "faker": "^5.4.0",
+    "phin": "^3.5.1"
+  }
+}
